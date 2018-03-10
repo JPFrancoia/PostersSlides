@@ -2,6 +2,16 @@ My posters and oral presentations, for all the conferences I attended.
 
 <br/>
 
+# RSC Twitter Poster Conference 2018, Twitter, World
+
+Website: [here](http://blogs.rsc.org/rscpublishing/2017/12/14/rsc-twitter-poster-conference-2018/)
+
+The poster conference happened on Twitter: [#RSCPoster](https://twitter.com/hashtag/RSCPoster?src=hash)
+
+![2018 rsc twitter](posters/2018_rsc_twitter.png)
+
+<br/>
+
 # JMJC 2016, Nice, France
 
 Website: [here](http://rjscfpacalr.wixsite.com/jmjc2016)
