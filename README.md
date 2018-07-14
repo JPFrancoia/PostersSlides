@@ -2,6 +2,20 @@ My posters and oral presentations, for all the conferences I attended.
 
 <br/>
 
+# Welcome Genome Campus hackathon, Hinxton, United Kingdom
+
+Website: [here](https://www.sanger.ac.uk/innovations/hackathon2018)
+
+I chose to compete in the Medicine Discovery Catapult’s challenge:
+*How can we combine drug and genetic data to intelligently prescribe drugs?*
+
+The code we came up with as a team is located [here](https://github.com/JPFrancoia/WCG_hackathon)
+
+Note: not all the code is mine, and the code was written in a *hackathon
+spirit*: quick and dirty...
+
+<br/>
+
 # RSC Twitter Poster Conference 2018, Twitter, World
 
 Website: [here](http://blogs.rsc.org/rscpublishing/2017/12/14/rsc-twitter-poster-conference-2018/)
