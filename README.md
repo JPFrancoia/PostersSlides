@@ -23,7 +23,7 @@ Website: [here](http://blogs.rsc.org/rscpublishing/2017/12/14/rsc-twitter-poster
 The poster conference happened on Twitter: [#RSCPoster](https://twitter.com/hashtag/RSCPoster?src=hash)
 
 You can find my tweet for the competition
-[here](https://twitter.com/hashtag/RSCPoster?src=hash) (50 retweets and 104
+[here](https://twitter.com/search?q=%23RSCPoster%20%23RSCOrg&src=typd) (50 retweets and 104
 likes at the end of the competition !!! The most liked/retweeted poster in
 the category #RSCorg)
 
